@@ -1,3 +1,0 @@
-# Submarines
-
-Shared Barotrama submarines.
